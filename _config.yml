@@ -1,0 +1,5 @@
+name: Blair William
+markdown: redcarpet
+exclude: ["node_modules", "gulpfile.js", "package.json"]
+
+port: 4040
